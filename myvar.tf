@@ -1,4 +1,4 @@
-variable "myfirstvaR" {
+variable "myfirstvar" {
     type = string
-    description = "HELLO! WELCOME TO TERRAFORM"
+    description = "HELfLO! WELCOME TO TERRAFORM"
 }
